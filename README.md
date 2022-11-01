@@ -20,5 +20,5 @@ The server will
 
 the user can then access the image of the plot on the client side in the output folder.
 
-
+# UML Sequence Diagram
 ![diagram](https://user-images.githubusercontent.com/55965710/199135672-07bea0ca-f83b-4e3f-b44a-a04d397f04c5.png)
