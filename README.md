@@ -19,3 +19,6 @@ The server will
 3. send the plot/figure back to the client automatically.
 
 the user can then access the image of the plot on the client side in the output folder.
+
+
+![diagram](https://user-images.githubusercontent.com/55965710/199135672-07bea0ca-f83b-4e3f-b44a-a04d397f04c5.png)
